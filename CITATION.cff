@@ -1,12 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: 2-loop Amplituhedron Stratification
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
 authors:
-  - family-names: Dian
-    given-names: Gabriele
-    orcid: https://orcid.org/0000-0003-3351-3681
-title: "2-loop amplituheron stratification"
-version: 1.0
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.1234
-date-released: 2024--09-10
+  - given-names: Gabriele
+    family-names: Dian
+    email: dian.gabriele@gmail.com
+    affiliation: DESY
+    orcid: 'https://orcid.org/0000-0003-3351-3681'
+repository-code: >-
+  https://github.com/GabrieleDian/Loop-amplituhedron-stratification.git
+abstract: >-
+  This repository contains the code to reproduce the results
+  of arxiv.....
+
+  The algebraic stratification can be generated with the
+  Macauly2 code.
+
+  The real algebraic stratification can be generated with
+  the Maple code. 
+keywords:
+  - Algebraic Geometry
+  - Amplituhedron
+  - Stratification
+commit: Creation
+version: '1.0'
+date-released: '2024-10-14'
