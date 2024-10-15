@@ -1,0 +1,1 @@
+{ideal(p12,q12,q34,q24,q23,q14,p34,p24,p23,p14), ideal(p12,q12,q34,q24,q23,q14,p34,p24,p23,p13), ideal(p12,q12,q34,q24,q23,q14,p34,p23,p14,p13), ideal(p12,q12,q34,q24,q23,q13,p34,p24,p23,p13), ideal(p12,q12,q34,q24,q23,q13,p34,p24,p14,p13), ideal(p12,q12,q34,q24,q23,q13,p24,p23,p14,p13)}
