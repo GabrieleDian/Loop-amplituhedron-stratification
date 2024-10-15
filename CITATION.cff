@@ -13,6 +13,16 @@ authors:
     email: dian.gabriele@gmail.com
     affiliation: DESY
     orcid: 'https://orcid.org/0000-0003-3351-3681'
+  - given-names: Felix
+    family-names: Tellander
+    email: 
+    affiliation: Oxford
+    orcid: 'https://orcid.org/0000-0001-6418-8047'
+  - given-names: Elia
+    family-names: Mazzucchelli
+    email: 
+    affiliation: MPI Munich
+    orcid: 
 repository-code: >-
   https://github.com/GabrieleDian/Loop-amplituhedron-stratification.git
 abstract: >-
