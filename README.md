@@ -1,6 +1,6 @@
 # Loop-Amplituhedron-Stratification
 
-This repository contains the code used to reproduce the results presented in [your paper title]. It focuses on the stratification of the algebraic boundary of the 4-point, 2-loop Amplituhedron.
+This repository contains the code used to reproduce the results presented in the paper Two Loop Amplituhedron https://arxiv.org/abs/2410.11501. It focuses on the stratification of the algebraic boundary of the 4-point, 2-loop Amplituhedron.
 
 ## Files and Descriptions
 
